@@ -1,0 +1,12 @@
+To run the demo code:
+python3 dci.py
+
+note:
+1. The demo code provides the molecular orbital in mo.npy to guarantee the same set of MO was used for the calculation
+2. Code result:
+    cycle 0, electronic energy is -4.928762, error is +0.021414Ha
+    cycle 1, electronic energy is -4.950975, error is -0.000799Ha
+    cycle 2, electronic energy is -4.950142, error is +0.000034Ha
+    cycle 3, electronic energy is -4.950173, error is +0.000003Ha
+
+
